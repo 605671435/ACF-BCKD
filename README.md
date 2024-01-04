@@ -83,7 +83,7 @@ python train.py {config}
 ```pycon
 python test.py {config}
 ```
-{config} means the config path. The config path can be found in [configs](new_configs "new_configs"),
+{config} means the config path. The config path can be found in [configs](configs "configs"),
 or you can find them in the last column of the following tables.
 # Results
 
