@@ -69,7 +69,7 @@ Be ware that we use the BraTS21 in the paper, and it's same as the link, which n
 
 ## Checkpoints
 
-We will release the checkpoint of the teacher, maybe after a few days. Or you can train the teacher by yourself, and replace the field 'teacher_ckpt' in the configs.
+You can download the pretrained teacher checkpoints from this [url](https://drive.google.com/drive/folders/1TJYwsQZz-Zqs4qjq8wyfp7B0dvre4tUT?usp=drive_link). Put them into your project directory.
 
 ## Commands
 -   Training on one GPU:
